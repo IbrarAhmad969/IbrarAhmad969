@@ -1,4 +1,4 @@
-![logo](https://github.com/IbrarAhmad969/Ibrar-Ahmad/blob/main/Flutter.png)
+![logo](https://github.com/IbrarAhmad969/IbrarAhmad969/blob/main/flutter-app-developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Ibrar Ahmad</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
