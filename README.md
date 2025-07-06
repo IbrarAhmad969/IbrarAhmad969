@@ -1,4 +1,4 @@
-![logo]([https://github.com/IbrarAhmad969/IbrarAhmad969/blob/main/flutter-app-developer.jpg](https://www.holycode.com/wp-content/uploads/2023/07/developer-looking-at-code-1.jpg))
+![logo](https://www.holycode.com/wp-content/uploads/2023/07/developer-looking-at-code-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Ibrar Ahmad</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
