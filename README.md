@@ -1,14 +1,14 @@
 ![logo](https://github.com/IbrarAhmad969/IbrarAhmad969/blob/main/flutter-app-developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Ibrar Ahmad</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+<h3 align="center">A passionate Software developer from Pakistan</h3>
 <img align="right all="width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrarahmad969&label=Profile%20views&color=0e75b6&style=flat" alt="ibrarahmad969" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Node.js, MongoDB**
+- 🌱 I’m currently learning **ReactJs, Flutter, Node.js, MongoDB**
 
-- 💬 Ask me about **Flutter, Dart, Firebase, C++, Rest API's, Node.js, SQL, MongoDB**
+- 💬 Ask me about **ReactJs, Flutter, Dart, Firebase, C++, Rest API's, Node.js, SQL, MongoDB**
 
 - 📫 How to reach me **ibrarhashmi640@gmail.com**
 
